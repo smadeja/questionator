@@ -1,0 +1,13 @@
+name: questionator
+version: 0.1.0
+
+authors:
+  - Szymon Madeja <szymon@mondido.com>
+
+targets:
+  questionator:
+    main: src/questionator.cr
+
+crystal: 0.36.1
+
+license: MIT
