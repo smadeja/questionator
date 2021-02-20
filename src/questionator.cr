@@ -8,4 +8,4 @@ module Questionator
 end
 
 page = Questionator::Page.new
-puts page.body
+puts page.questions.sample
