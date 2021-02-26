@@ -1,6 +1,54 @@
 version: 2.0
 shards:
+  avram:
+    git: https://github.com/luckyframework/avram.git
+    version: 0.19.0
+
+  blank:
+    git: https://github.com/kostya/blank.git
+    version: 0.1.0
+
+  db:
+    git: https://github.com/crystal-lang/crystal-db.git
+    version: 0.10.0
+
+  dexter:
+    git: https://github.com/luckyframework/dexter.git
+    version: 0.3.2
+
+  future:
+    git: https://github.com/crystal-community/future.cr.git
+    version: 0.1.0
+
+  habitat:
+    git: https://github.com/luckyframework/habitat.git
+    version: 0.4.5
+
+  lucky_cli:
+    git: https://github.com/luckyframework/lucky_cli.git
+    version: 0.26.0
+
   myhtml:
     git: https://github.com/kostya/myhtml.git
     version: 1.5.3
+
+  pg:
+    git: https://github.com/will/crystal-pg.git
+    version: 0.23.1
+
+  pulsar:
+    git: https://github.com/luckyframework/pulsar.git
+    version: 0.2.1
+
+  shell-table:
+    git: https://github.com/luckyframework/shell-table.cr.git
+    version: 0.9.2+git.commit.078a04ea58ead5203bb435a3b5fff448ddabaeea
+
+  teeplate:
+    git: https://github.com/luckyframework/teeplate.git
+    version: 0.8.2
+
+  wordsmith:
+    git: https://github.com/luckyframework/wordsmith.git
+    version: 0.2.1
 

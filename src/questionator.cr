@@ -1,4 +1,8 @@
+require "avram"
+
+require "./questionator/database"
 require "./questionator/page"
+require "./questionator/question"
 
 # TODO: Write documentation for `Questionator`
 module Questionator

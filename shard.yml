@@ -13,5 +13,7 @@ crystal: 0.36.1
 license: MIT
 
 dependencies:
+  avram:
+    github: luckyframework/avram
   myhtml:
     github: kostya/myhtml
